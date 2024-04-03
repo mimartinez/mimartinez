@@ -15,11 +15,11 @@
   </samp>
 </p>
 
-<h4>
+<h3>
   <samp>
   Languages and Tools:
   </samp>
-</h4>
+</h3>
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure" width="40" height="40"/></a>
 <a href="https://netlify.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" title="netlify" width="40" height="40"/></a>
@@ -33,18 +33,14 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="sqlite" width="40" height="40"/></a>
 <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" title="graphql" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/></a>
+<a href="https://strapi.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/strapi.svg" alt="strapi" title="strapi" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="vuejs" width="40" height="40"/></a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="nuxtjs" width="40" height="40"/></a>
-<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-
-
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-
-
+<a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="vuejs" width="40" height="40"/></a>
+<a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="nuxtjs" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="reactjs" width="40" height="40"/></a>
 <a href="https://vitepress.dev/" target="_blank"><img src="https://vitepress.dev/vitepress-logo-mini.svg" alt="vitepress" title="vitepress" width="40" height="40"/></a>
+<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="jest" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/></a>
 </p>
 
 <!--![Michel's github stats](https://github-readme-stats.vercel.app/api?username=mimartinez&count_private=true&show_icons=true)-->
