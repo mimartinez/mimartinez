@@ -40,6 +40,7 @@
 <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="nuxtjs" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="reactjs" width="40" height="40"/></a>
 <a href="https://strapi.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/strapi.svg" alt="strapi" title="strapi" width="40" height="40"/></a>
+<a href="https://www.meilisearch.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/meilisearch.svg" alt="meilisearch" title="meilisearch" width="40" height="40"/></a>
 <a href="https://vitepress.dev/" target="_blank"><img src="https://vitepress.dev/vitepress-logo-mini.svg" alt="vitepress" title="vitepress" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="jest" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" title="python" width="40" height="40"/></a>
