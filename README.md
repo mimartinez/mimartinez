@@ -1,8 +1,8 @@
-<h3>
+<h2>
   <samp>
   Hey 👋, I'm Michel!
   </samp>
-</h3>
+</h2>
 <p>
   <samp>
     A seasoned professional, serving as a Senior Software Engineer, specialized in Front-End development and architecture. I am always eager to learn new tools and techniques, and to collaborate with other professionals who share my vision and values.
