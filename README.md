@@ -1,4 +1,8 @@
-### Hey 👋, I'm Michel!
+### Hey 👋, I'm [Michel!](https://michelmartinez.com) 
+
+My core competencies include Nuxt & VueJS Ecosystem 🖖, Strapi, Azure DevOps, Tailwind CSS, and JavaScript frameworks. I am always eager to learn new tools and techniques, and to collaborate with other professionals who share my vision and values.
+
+<!--![Michel's github stats](https://github-readme-stats.vercel.app/api?username=mimartinez&count_private=true&show_icons=true)-->
 
 <!--
 **mimartinez/mimartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
