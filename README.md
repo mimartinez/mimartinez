@@ -37,6 +37,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" title="sass" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" title="typescript" width="40" height="40"/></a>
+<a href="https://angular.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="angular" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="vuejs" width="40" height="40"/></a>
 <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" title="nuxtjs" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" title="reactjs" width="40" height="40"/></a>
