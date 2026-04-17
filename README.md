@@ -8,14 +8,9 @@
   <br/>
 
   <!-- Badges sociales -->
-  <a href="https://micheldiaz.me">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mimartinez">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mimartinez&style=for-the-badge&color=6366F1" alt="Profile views"/>
-
+  <p align="center">
+    <a href="https://micheldiaz.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>  <a href="https://www.linkedin.com/in/mimartinez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  <img src="https://komarev.com/ghpvc/?username=mimartinez&style=for-the-badge&color=6366F1" alt="Profile views"/>
+  </p>
   </div>
 
   ---
@@ -74,5 +69,5 @@
   ---
 
   <div align="center">
-    <sub><samp>⭐ From <a href="https://github.com/mimartinez">mimartinez</a> — <i>"Stay curious, keep shipping."</i></samp></sub>
+    <sub><samp>⭐ From <a href="https://github.com/mimartinez">Michel Diaz</a> — <i>"Stay curious, keep shipping."</i></samp></sub>
   </div>
