@@ -2,7 +2,7 @@
 
   <!-- Banner animado con tipografía -->
   <a href="https://micheldiaz.me">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Michel+Diaz;Senior+Software+Engineer;Front-End+Architect;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=363636&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Michel+Díaz;Senior+Software+Engineer;Front-End+Architect;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -69,5 +69,5 @@
   ---
 
   <div align="center">
-    <sub><samp>⭐ From <a href="https://github.com/mimartinez">Michel Diaz</a> — <i>"Stay curious, keep shipping."</i></samp></sub>
+    <sub><samp>⭐ From <a href="https://github.com/mimartinez">Michel Díaz</a> — <i>"Stay curious, keep shipping."</i></samp></sub>
   </div>
